@@ -4,9 +4,7 @@ tags: welcome, blog, marmite
 
 # Welcome to your blog
 
-This is your first post!
-
-Edit it and start blogging!
+hi
 
 
 Markdown Formatting:  
